@@ -29,7 +29,7 @@ public class WindowContext : Gtk.Window
 
      void rotatePointsRight(object sender, EventArgs args)
     {
-        core.rotatePoints(90);
+        core.rotatePoints(5);
         Draw();
     }
 
