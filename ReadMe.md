@@ -1,6 +1,6 @@
 # MatrixSharp
 
-A simple program to demonstrate 2D transformations
+A simple program to demonstrate 2D transformations writed in C#.
 
 
 
