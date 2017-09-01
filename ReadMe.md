@@ -2,6 +2,10 @@
 
 A simple program to demonstrate 2D transformations writed in C#.
 
+Data entry: Mouse and Keyboard
+
+Data out: Screen
+
 
 
 ## Project Architecture
